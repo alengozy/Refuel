@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Refuel</string>
-    <string name="searchstations">Gas Stations</string>
+    <string name="searchstations">Найти Станции</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_stationsfrag">Станции</string>
+    <string name="title_userfrag">Пользователь</string>
 </resources>
