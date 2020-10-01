@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Refuel</string>
+    <string name="searchstations">Gas Stations</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_stationsfrag">Stations</string>
+    <string name="title_userfrag">User</string>
+</resources>
